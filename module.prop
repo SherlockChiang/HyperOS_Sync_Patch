@@ -1,0 +1,7 @@
+id=HyperOS_Sync_Patch
+name=HyperOS_Sync_Patch
+version=v1.0
+versionCode=1
+author=Uranium92
+description=提取谷歌日历同步,联系人同步,位置记录组件
+minMagisk=1500
